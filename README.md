@@ -4,6 +4,8 @@ Paste links related to learning programming for placement or advanced industrial
 ## Resources
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
+* [Cpp STL](https://www.tutorialspoint.com/cpp_standard_library/index.htm)
+* [Java Basics](https://www.tutorialspoint.com/java/index.htm)
 
 
 ## Contributing
