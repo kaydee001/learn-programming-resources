@@ -4,6 +4,7 @@ Paste links related to learning programming for placement or advanced industrial
 ## Resources
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
+* [Code Chef](https://www.codechef.com/)
 
 
 ## Contributing
