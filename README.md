@@ -1,5 +1,5 @@
 # learn-programming-resources
-Paste links related to learning programming for placement or advanced industrial learning
+Paste links related to learning programming for placement or advanced industrial learning.
 
 ## Resources
 ### Beginner Resources
