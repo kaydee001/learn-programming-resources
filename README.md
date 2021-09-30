@@ -4,6 +4,7 @@ Paste links related to learning programming for placement or advanced industrial
 ## Resources
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
+* [JavabyPatel](https://javabypatel.blogspot.com/)
 * [C Coding Standards](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#pnames)
 * [Code Chef](https://www.codechef.com/)
 ### Graphics Programming
