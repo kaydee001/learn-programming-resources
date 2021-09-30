@@ -5,6 +5,14 @@ Paste links related to learning programming for placement or advanced industrial
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [JavabyPatel](https://javabypatel.blogspot.com/)
+* [C Coding Standards](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#pnames)
+* [Code Chef](https://www.codechef.com/)
+### Graphics Programming
+* [LearnOpenGL](https://learnopengl.com/)
+* [OpenGL-Tutorial](http://www.opengl-tutorial.org/)
+* [Docs.GL](http://docs.gl/)
+* [glTF-Tuts](https://github.com/KhronosGroup/glTF-Tutorials)
+
 
 ## Contributing
 > **NOTE:** Only add links in this readme file. Do not create new files or PR will be marked invalid.
