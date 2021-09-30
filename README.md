@@ -6,7 +6,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [Cpp STL](https://www.tutorialspoint.com/cpp_standard_library/index.htm)
 * [Java Basics](https://www.tutorialspoint.com/java/index.htm)
-
+* [Code Chef](https://www.codechef.com/)
 
 ## Contributing
 > **NOTE:** Only add links in this readme file. Do not create new files or PR will be marked invalid.
