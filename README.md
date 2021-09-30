@@ -4,7 +4,7 @@ Paste links related to learning programming for placement or advanced industrial
 ## Resources
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
-
+* [JavabyPatel](https://javabypatel.blogspot.com/)
 
 ## Contributing
 > **NOTE:** Only add links in this readme file. Do not create new files or PR will be marked invalid.
