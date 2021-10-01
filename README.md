@@ -9,6 +9,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [JavabyPatel](https://javabypatel.blogspot.com/)
 * [C Coding Standards](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#pnames)
 * [Code Chef](https://www.codechef.com/)
+* [W3Schools](https://www.w3schools.com/)
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
 * [OpenGL-Tutorial](http://www.opengl-tutorial.org/)
