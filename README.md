@@ -12,6 +12,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [W3Schools](https://www.w3schools.com/)
 * [Python Basics](https://www.w3schools.com/python/)
 * [CS50x](https://cs50.harvard.edu/x/2021/)
+* [HowToDoInJava](https://howtodoinjava.com/)
 * [Codecademy - Learn to code](https://www.codecademy.com/)
 
 ### Graphics Programming
