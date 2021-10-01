@@ -10,6 +10,9 @@ Paste links related to learning programming for placement or advanced industrial
 * [C Coding Standards](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#pnames)
 * [Code Chef](https://www.codechef.com/)
 * [W3Schools](https://www.w3schools.com/)
+=======
+* [Python Basics](https://www.w3schools.com/python/)
+
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
 * [OpenGL-Tutorial](http://www.opengl-tutorial.org/)
