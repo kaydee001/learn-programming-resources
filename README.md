@@ -14,6 +14,8 @@ Paste links related to learning programming for placement or advanced industrial
 * [CS50x](https://cs50.harvard.edu/x/2021/)
 * [HowToDoInJava](https://howtodoinjava.com/)
 * [Codecademy - Learn to code](https://www.codecademy.com/)
+* [freeCodeCamp](https://www.freecodecamp.org)
+* [Scrimba.com: Learn to Code with Interactive Tutorials](https://scrimba.com)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
