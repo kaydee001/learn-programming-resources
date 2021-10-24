@@ -18,6 +18,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [Scrimba.com: Learn to Code with Interactive Tutorials](https://scrimba.com)
 * [Programiz: Learn to Code for Free](https://programiz.com)
 * [Tutorialspoint](https://tutorialspoint.com)
+* [College Compendium](https://collegecompendium.org/)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
