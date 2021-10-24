@@ -2,6 +2,7 @@
 Paste links related to learning programming for placement or advanced industrial learning.
 
 ## Resources
+
 ### Beginner Resources
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [Cpp STL](https://www.tutorialspoint.com/cpp_standard_library/index.htm)
@@ -19,6 +20,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [Programiz: Learn to Code for Free](https://programiz.com)
 * [Tutorialspoint](https://tutorialspoint.com)
 * [College Compendium](https://collegecompendium.org/)
+* [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
