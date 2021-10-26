@@ -8,8 +8,10 @@ Paste links related to learning programming for placement or advanced industrial
 * [Cpp STL](https://www.tutorialspoint.com/cpp_standard_library/index.htm)
 * [Java Basics](https://www.tutorialspoint.com/java/index.htm)
 * [JavabyPatel](https://javabypatel.blogspot.com/)
+* [Code Avengers](https://www.codeavengers.com/)
 * [C Coding Standards](https://users.ece.cmu.edu/~eno/coding/CCodingStandard.html#pnames)
 * [Code Chef](https://www.codechef.com/)
+* [CSS-Tricks](https://css-tricks.com/)
 * [W3Schools](https://www.w3schools.com/)
 * [Python Basics](https://www.w3schools.com/python/)
 * [CS50x](https://cs50.harvard.edu/x/2021/)
@@ -18,9 +20,11 @@ Paste links related to learning programming for placement or advanced industrial
 * [freeCodeCamp](https://www.freecodecamp.org)
 * [Scrimba.com: Learn to Code with Interactive Tutorials](https://scrimba.com)
 * [Programiz: Learn to Code for Free](https://programiz.com)
+* [Treehouse](https://teamtreehouse.com/)
 * [Tutorialspoint](https://tutorialspoint.com)
 * [College Compendium](https://collegecompendium.org/)
 * [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
+* [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
