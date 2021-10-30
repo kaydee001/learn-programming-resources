@@ -26,6 +26,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Codementor](https://www.codementor.io/)
+* [MIT OpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
