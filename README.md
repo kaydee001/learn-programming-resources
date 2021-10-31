@@ -30,6 +30,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
 * [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
 * [Javatpoint](https://www.javatpoint.com/)
+* [MOOC - Massive Open Online Courses - University of Helsinki](https://www.mooc.fi/en/)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
