@@ -29,6 +29,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [MIT OpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 * [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
 * [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
+* [Javatpoint](https://www.javatpoint.com/)
 
 ### Graphics Programming
 * [LearnOpenGL](https://learnopengl.com/)
