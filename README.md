@@ -1,5 +1,8 @@
-# learn-programming-resources
+![Intro](banner.png)
+
 Paste links related to learning programming for placement or advanced industrial learning.
+
+
 
 ## Resources
 
