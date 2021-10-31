@@ -18,6 +18,7 @@ Paste links related to learning programming for placement or advanced industrial
 * [HowToDoInJava](https://howtodoinjava.com/)
 * [Codecademy - Learn to code](https://www.codecademy.com/)
 * [freeCodeCamp](https://www.freecodecamp.org)
+* [Exercism](https://exercism.org/)
 * [Scrimba.com: Learn to Code with Interactive Tutorials](https://scrimba.com)
 * [Programiz: Learn to Code for Free](https://programiz.com)
 * [Treehouse](https://teamtreehouse.com/)
